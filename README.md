@@ -5,7 +5,11 @@ This project uses the LangChain AI model to Score the Github Repositories of the
 
 ## Demo
 
-Insert gif or link to demo
+
+
+Uploading demo.mp4…
+
+
 
 
 ## Workflow
