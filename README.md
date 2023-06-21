@@ -27,10 +27,10 @@ Insert gif or link to demo
 
 
 
-| Parameter | Type     | Description                | 
-| :-------- | :------- | :------------------------- |
-| `GithubAccessToken` | `string` | [Get token from here](https://github.com/settings/tokens) |
-| `OpenAI_api_key` | `string` | [Get API from here](https://platform.openai.com/account/api-keys) |
+| Parameter | Type     |Description | Links            | 
+| :-------- | :------- |:----------| :----------|
+| `GithubAccessToken` | `string` |This is used to access repositories from the Github(you can access very few repositories from single IP without this). | [Get token from here](https://github.com/settings/tokens) |
+| `OpenAI_api_key` | `string` |This is used to authorize and request the output from the OpenAI | [Get API from here](https://platform.openai.com/account/api-keys) |
 
 #### 
 
