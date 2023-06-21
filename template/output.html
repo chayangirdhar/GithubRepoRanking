@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Output </title>
+{% endblock %}
+
+{% block body %}
+ 
+<h1 style="text-align: center;">Github Repository Fetching </h1>
+<p style="text-align: center; font-weight: bolder; font-size: large;">
+    Most Technically Complex Repository of <span style="font-style: italic; color: #f51a1a;">"{{user}}" </span> is 
+    <span style="font-style: italic;">"{{resultRepo}}" </span>
+    with the Technical complexity score of <span style="font-style: italic;">{{resultRepoScore}}</span>.
+    <br>
+    <a href="http://github.com/{{resultRepo}}">Click Here to go to Repository</a> 
+</p>
+
+
+
+{% endblock %}
