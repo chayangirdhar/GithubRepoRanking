@@ -1,2 +1,2 @@
-auth_token = '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'
-OPENAI_API_KEY = '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'
+auth_token = Your_Github_Auth_token
+OPENAI_API_KEY = Your_OPENAI_API_KEY
