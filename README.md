@@ -16,7 +16,7 @@ Insert gif or link to demo
 3. After determining the average Technical Complexity of a specific repository, it predicts the most complex repository of a specific user.
 ## Instructions
 
-1. After getting tokens from [Here](https://github.com/chayangirdhar/GithubRepoScorer/edit/main/README.md#api-reference) 
+1. After getting tokens from [Here](https://github.com/chayangirdhar/GithubRepoScorer/blob/main/README.md#api-reference) 
 
 2. Add those token values to Sceret.py file as strings 
 
